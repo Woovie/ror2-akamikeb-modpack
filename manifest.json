@@ -1,0 +1,21 @@
+{
+    "name": "akamikeb modpack",
+    "version_number": "1.0.0",
+    "website_url": "https://discord.com/invite/akamikeb",
+    "description": "A modpack for the akamikeb community",
+    "dependencies": [
+	"bbepis-BepInExPack-5.4.9",
+	"RiskofThunder-HookGenPatcher-1.2.1",
+	"tristanmcpherson-R2API-3.0.52",
+        "wildbook-TooManyFriends-1.1.1",
+	"KingEnderBrine-ScrollableLobbyUI-1.6.3",
+	"ontrigger-ItemStatsMod-2.2.1",
+	"MagnusMagnuson-BiggerBazaar-1.12.13",
+        "EnforcerGang-Enforcer-3.1.1",
+	"Rein-Sniper-1.5.2",
+	"XoXFaby-BetterUI-2.3.0",
+	"FunkFrog-and-Sipondo-ShareSuite-2.5.1",
+	"TheRealElysium-EmptyChestsBeGone-1.1.1",
+	"CWMlolzlz-SkillsPlusPlus-0.2.3"
+    ]
+}
